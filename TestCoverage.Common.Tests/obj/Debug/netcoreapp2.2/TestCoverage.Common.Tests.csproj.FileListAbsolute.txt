@@ -1,0 +1,17 @@
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Common.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Common.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Common.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Common.Tests\bin\Debug\netcoreapp2.2\TestCoverage.Common.Tests.deps.json
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Common.Tests\bin\Debug\netcoreapp2.2\TestCoverage.Common.Tests.runtimeconfig.json
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Common.Tests\bin\Debug\netcoreapp2.2\TestCoverage.Common.Tests.runtimeconfig.dev.json
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Common.Tests\bin\Debug\netcoreapp2.2\TestCoverage.Common.Tests.dll
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Common.Tests\bin\Debug\netcoreapp2.2\TestCoverage.Common.Tests.pdb
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Common.Tests\bin\Debug\netcoreapp2.2\TestCoverage.Domain.dll
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Common.Tests\bin\Debug\netcoreapp2.2\TestCoverage.Domain.pdb
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Common.Tests\obj\Debug\netcoreapp2.2\TestCoverage.Common.Tests.csprojAssemblyReference.cache
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Common.Tests\obj\Debug\netcoreapp2.2\TestCoverage.Common.Tests.csproj.CoreCompileInputs.cache
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Common.Tests\obj\Debug\netcoreapp2.2\TestCoverage.Common.Tests.AssemblyInfoInputs.cache
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Common.Tests\obj\Debug\netcoreapp2.2\TestCoverage.Common.Tests.AssemblyInfo.cs
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Common.Tests\obj\Debug\netcoreapp2.2\TestCoverage.Common.Tests.csproj.CopyComplete
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Common.Tests\obj\Debug\netcoreapp2.2\TestCoverage.Common.Tests.dll
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Common.Tests\obj\Debug\netcoreapp2.2\TestCoverage.Common.Tests.pdb

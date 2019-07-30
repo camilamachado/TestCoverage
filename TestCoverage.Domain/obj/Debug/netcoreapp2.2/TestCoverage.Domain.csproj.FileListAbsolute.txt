@@ -1,0 +1,9 @@
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Domain\bin\Debug\netcoreapp2.2\TestCoverage.Domain.deps.json
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Domain\bin\Debug\netcoreapp2.2\TestCoverage.Domain.dll
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Domain\bin\Debug\netcoreapp2.2\TestCoverage.Domain.pdb
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Domain\obj\Debug\netcoreapp2.2\TestCoverage.Domain.csprojAssemblyReference.cache
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Domain\obj\Debug\netcoreapp2.2\TestCoverage.Domain.csproj.CoreCompileInputs.cache
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Domain\obj\Debug\netcoreapp2.2\TestCoverage.Domain.AssemblyInfoInputs.cache
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Domain\obj\Debug\netcoreapp2.2\TestCoverage.Domain.AssemblyInfo.cs
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Domain\obj\Debug\netcoreapp2.2\TestCoverage.Domain.dll
+C:\REPOSITORIO - CAMILA\TestCoverage\TestCoverage\TestCoverage.Domain\obj\Debug\netcoreapp2.2\TestCoverage.Domain.pdb
